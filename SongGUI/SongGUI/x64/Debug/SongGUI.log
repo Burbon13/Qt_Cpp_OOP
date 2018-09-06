@@ -1,0 +1,12 @@
+﻿  Rcc'ing SongGUI.qrc...
+  Uic'ing SongGUI.ui...
+  RCC: Warning: No resources in 'D:\Facultate\Y1\Sem2\OOP\Repo\SongGUI\SongGUI\SongGUI.qrc'.
+  main.cpp
+  MyModel.cpp
+  Repo.cpp
+  Service.cpp
+  Song.cpp
+  SongGUI.cpp
+  moc_SongGUI.cpp
+  qrc_SongGUI.cpp
+  SongGUI.vcxproj -> D:\Facultate\Y1\Sem2\OOP\Repo\SongGUI\x64\Debug\SongGUI.exe

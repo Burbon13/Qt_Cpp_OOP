@@ -1,0 +1,2 @@
+Rcc'ing SongGUI.qrc...;C:\Qt\Tools\5.10.1\msvc2017_64\bin\rcc.exe;"D:\Facultate\Y1\Sem2\OOP\Repo\SongGUI\SongGUI\SongGUI.qrc" -o ".\GeneratedFiles\qrc_SongGUI.cpp" --name SongGUI
+Uic'ing SongGUI.ui...;C:\Qt\Tools\5.10.1\msvc2017_64\bin\uic.exe;"D:\Facultate\Y1\Sem2\OOP\Repo\SongGUI\SongGUI\SongGUI.ui" -o ".\GeneratedFiles\ui_SongGUI.h"

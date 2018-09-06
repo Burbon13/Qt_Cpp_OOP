@@ -1,0 +1,3 @@
+SongGUI.h|"C:\Users\User\source\repos\SongGUI\SongGUI\SongGUI.h" -o ".\GeneratedFiles\Debug\moc_SongGUI.cpp" "-I.\GeneratedFiles" "-I." "-IC:\Qt\Tools\5.10.1\msvc2017_64\include" "-I.\GeneratedFiles\Debug" "-IC:\Qt\Tools\5.10.1\msvc2017_64\include\QtCore" "-IC:\Qt\Tools\5.10.1\msvc2017_64\include\QtGui" "-IC:\Qt\Tools\5.10.1\msvc2017_64\include\QtANGLE" "-IC:\Qt\Tools\5.10.1\msvc2017_64\include\QtWidgets" -DUNICODE -D_UNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+SongGUI.qrc|"D:\Facultate\Y1\Sem2\OOP\Repo\SongGUI\SongGUI\SongGUI.qrc" -o ".\GeneratedFiles\qrc_SongGUI.cpp" --name SongGUI
+SongGUI.ui|"D:\Facultate\Y1\Sem2\OOP\Repo\SongGUI\SongGUI\SongGUI.ui" -o ".\GeneratedFiles\ui_SongGUI.h"
