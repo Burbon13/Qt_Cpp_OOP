@@ -1,0 +1,88 @@
+1
+Primul meu task!
+2
+Razvan Roatis
+Istvan Czibula
+open
+4
+Ultimul task
+2
+Paul Ciobanu
+Vleid
+open
+6
+Frumos
+1
+Mihail 
+open
+3
+Al treilea task
+3
+Razvan Roatis
+Paul Ciobanu
+Vleid
+open
+66
+Vreau sa mor
+2
+Alin
+cUSCU
+inprogress
+22
+Nein
+2
+Paul mama
+Gaga
+closed
+765
+Frumoas
+1
+Vancea
+inprogress
+534534
+fafdsf
+2
+fsdfs
+f
+inprogress
+10
+O zi frumoaas
+3
+Paul mama
+Tata
+Gaga
+inprogress
+5
+Frumos
+1
+Mihail 
+closed
+2
+Al doilea task!
+2
+Paul Ciobanu
+Nimeni
+closed
+123
+O zi frumoaas
+3
+Paul mama
+Tata
+Gaga
+closed
+661
+Vreau sa mor
+2
+Alin
+cUSCU
+closed
+12345
+Un task minunat
+1
+ana
+closed
+123452
+Un task minunat
+1
+ans
+closed

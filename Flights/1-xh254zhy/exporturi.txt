@@ -1,0 +1,15 @@
+3
+500
+122
+Bucuresti
+Cluj
+6
+500
+20
+Dublin
+Oxford
+8
+145
+20
+Teheran
+Iran

@@ -1,0 +1,25 @@
+1
+Primul meu task!
+2
+Razvan Roatis
+Istvan Czibula
+open
+4
+Ultimul task
+2
+Paul Ciobanu
+Vleid
+open
+3
+Al treilea task
+3
+Razvan Roatis
+Paul Ciobanu
+Vleid
+inprogress
+2
+Al doilea task!
+2
+Paul Ciobanu
+Nimeni
+closed
